@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: lightcyan;
+    margin: 1rem;
+}
+
+p{
+    font-size: 1.5rem;
+    padding-left: 1rem;
+
+}
+h1{
+    padding-left: 1rem;
+    color: ivory;
+}
+
+h2{
+    padding-left: 1rem;
+    color: lightcoral;
+}  
+
+
+xmp{
+    display: inline-block;
+    background-color: rgb(55, 55, 56);
+    border: 1px,solid,white;
+}
+
+a{
+    background-color: silver;
+}
+
+
+
+.heading{
+    color: skyblue;
+    size: 10px;
+}
+
+.paras{
+    font-style: italic;
+    size: 6px;
+}
+
+#piggy{
+    color: pink;
+    font-style: bold;
+}
+    
